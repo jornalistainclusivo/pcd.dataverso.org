@@ -6,10 +6,10 @@ Bem-vindes!
 
 Brasil • América Latina
 
-![Hydra template screenshot](images/_screenshot.png)
+![Jornalista Inclusivo](images/logo-jornalista-inclusivo-preto_azul.png)
 
 
-[![Visite o website](https://buttons.cloudcannon.com/deploy.svg)](https://pcd.dataverso.org)
+[Visite o website](https://pcd.dataverso.org)
 
 
 ## Suport
@@ -20,5 +20,5 @@ Brasil • América Latina
 
 ## Develop
 
-PcD Dataverso was built with [Jekyll](http://jekyllrb.com/) with [Hydra theme](https://github.com/CloudCannon/hydra-jekyll-template).
+PcD Dataverso was built with [Jekyll](http://jekyllrb.com/) and [Hydra theme](https://github.com/CloudCannon/hydra-jekyll-template).
 
