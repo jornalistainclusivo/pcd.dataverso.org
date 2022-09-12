@@ -1,4 +1,4 @@
-- name: Pricing
+- name: O que
   link: /pricing/
   new_window: false
   highlight: false
@@ -6,19 +6,19 @@
   link: /blog/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
+- name: Sobre
+  link: /sobre/
   new_window: false
   highlight: false
-- name: Contact
+- name: Contato
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+- name: Newsletter
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
+- name: Colabore
   link: /
   new_window: true
   highlight: true
