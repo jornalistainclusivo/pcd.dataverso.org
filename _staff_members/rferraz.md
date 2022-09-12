@@ -1,6 +1,6 @@
 ---
 name: Rafael Ferraz
-position: 
+position: Jornalista
 image_path: /images/rferraz-avatar.png
 twitter: 
 blurb: 
