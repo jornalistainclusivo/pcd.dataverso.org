@@ -3,9 +3,9 @@
     link: /pricing/
   - name: Blog
     link: /blog/
-  - name: About
-    link: /about/
-  - name: Contact
+  - name: Sobre
+    link: /sobre/
+  - name: Contato
     link: /contact/
 - links:
   - name: Login
