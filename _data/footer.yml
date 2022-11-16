@@ -1,12 +1,12 @@
 - links:
-  - name: Dados
-    link: /dados/
+  - name: Pricing
+    link: /pricing/
   - name: Blog
     link: /blog/
-  - name: Sobre
-    link: /sobre/
-  - name: Contato
-    link: /contato/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
 - links:
   - name: Login
     link: /
