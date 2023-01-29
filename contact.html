@@ -17,20 +17,20 @@ map:
 		<input type="hidden" name="_to" value="support@example.com" />
 		<input type="text" name="_gotcha" style="display: none;">
 
-		<label for="name">Full Name</label>
-		<input type="text" name="name" id="name" placeholder="Enter your name..." />
+		<label for="name">Nome</label>
+		<input type="text" name="name" id="name" placeholder="Digite seu nome..." />
 
-		<label for="email">Email Address</label>
-		<input type="email" name="email" id="email" placeholder="Enter your email..." required />
+		<label for="email">Email</label>
+		<input type="email" name="email" id="email" placeholder="Digite email..." required />
 
-		<label for="message">Message</label>
-		<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
+		<label for="message">Mensagem</label>
+		<textarea name="message" id="message" placeholder="Digite sua mensagem..."></textarea>
 
-		<input type="submit" value="Send Message" />
+		<input type="submit" value="Enviar" />
 	</form>
 
 	<div class="contact-details">
-		<h3 class="editable">Address</h3>
+		<h3 class="editable">Endereço</h3>
 		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 
 		<h3 class="editable">Email</h3>
