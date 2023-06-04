@@ -22,10 +22,15 @@
 	.square-image {
 		width: 200px;
 		height: 200px;
-			img {
-				border-radius: 200px;
-			}
+		
+		img {
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover; /* Garante o ajuste de tamanho da imagem */
+		  border-radius: 200px;
 		}
+	  }
+	  
 
 	.name {
 		font-size: 1.3em;
