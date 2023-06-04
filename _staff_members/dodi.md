@@ -1,7 +1,7 @@
 ---
 name: Dôdi
-position: Podcaster
-image_path: /images/dodi-avatar.png
+position: IT Specialist
+image_path: /images/dodi-200x200.png
 twitter: 
 blurb: 
 ---
