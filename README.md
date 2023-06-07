@@ -6,8 +6,7 @@ Bem-vindes!
 
 Brasil • América Latina
 
-![Jornalista Inclusivo](images/logo-jornalista-inclusivo.png)
-
+![PCD Dataverso](images/logo-pcd-dataverso.png)
 
 [Visite o website](https://pcd.dataverso.org)
 
