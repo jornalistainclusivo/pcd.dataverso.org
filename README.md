@@ -6,7 +6,7 @@ Bem-vindes!
 
 Brasil • América Latina
 
-![PCD Dataverso](images/logo-pcd-dataverso.png)
+![PCD Dataverso](images/logo-pcd-dataverso-310x75.png)
 
 [Visite o website](https://pcd.dataverso.org)
 
