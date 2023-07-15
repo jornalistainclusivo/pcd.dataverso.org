@@ -9,7 +9,7 @@ author_staff_member: rferraz
 
 A PCD.dataverso foi criada guiada pela intenção de preencher uma lacuna: a de fontes consistentes e acessíveis de dados sobre a população com deficiência no Brasil. Cientes da insuficiência de plataformas compreensíveis para divulgação dessa informação, lançamos um compromisso ousado de reunir e disponibilizar dados confiáveis, visando transformá-los em narrativas compreensíveis e capazes de desencadear conversas significativas e mudanças sistêmicas. Portanto, nós nos dedicamos com propósito para garantir a precisão, integridade e relevância de cada dado compartilhado em nossa plataforma, sempre nos esforçando para simplificar complexidades e amplificar acessibilidade.
 
-![Símbolo internacional de acessibilidade](../images/accessibility-icon.jpg)
+![simbolo internacional de acessibilidade](images/accessibility-icon.jpg)
 
 Na essência da PCD.dataverso estão nossos valores fundamentais: transparência, confiabilidade e inclusão. Acreditamos que a transparência é primordial no trato dos dados; nós nos esforçamos para literalmente 'descomplicar' as estatísticas, permitindo que sejam claramente compreendidas por todos. Equacionamos confiabilidade com responsabilidade: cada dado é minuciosamente verificado e validado por nossa equipe de especialistas para garantir a acuracidade do que é partilhado. E inclusão, posicionamo-nos firmemente como avalistas, utilizando nosso alcance e conhecimento para apresentar informações que ajudem a promover e defender os direitos da população com deficiência. Uma vez que incontáveis pessoas dependem dessas informações para sua representatividade, clareza e ação, isso está no cerne do que a PCD.dataverso busca contribuir.
 
@@ -26,3 +26,5 @@ Fornecer esses serviços e fazer a diferença na vida de nosso público é a nos
 Na PCD.dataverso, depositamos forte crença no poder do conhecimento como veículo de mudança. Compreendendo que a informação é o primeiro passo para a transformação, convidamos todos a explorarem nosso site, a usarem nossos dados, as análises e as reflexões contidas nas histórias e artigos - tudo como ferramentas para a construção de um futuro de maior inclusão. Porque cada dado, cada número tem uma voz e uma história; e são essas vozes, essas histórias, que tendem a criar uma sociedade beneficiada pela diversidade e sintonizada na inclusão. 
 
 E quem explora nossas páginas faz parte dessa transformação. Queremos que saiba: agradecemos sua visita e interesse. É a soma de interesses e esforços individuais, começando pela busca do conhecimento, que pode moldar uma realidade mais inclusiva e solidária. Obrigado por fazer parte disso!"
+
+[def]: ../images/accessibility-icon.jpg
