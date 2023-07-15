@@ -26,5 +26,3 @@ Fornecer esses serviços e fazer a diferença na vida de nosso público é a nos
 Na PCD.dataverso, depositamos forte crença no poder do conhecimento como veículo de mudança. Compreendendo que a informação é o primeiro passo para a transformação, convidamos todos a explorarem nosso site, a usarem nossos dados, as análises e as reflexões contidas nas histórias e artigos - tudo como ferramentas para a construção de um futuro de maior inclusão. Porque cada dado, cada número tem uma voz e uma história; e são essas vozes, essas histórias, que tendem a criar uma sociedade beneficiada pela diversidade e sintonizada na inclusão. 
 
 E quem explora nossas páginas faz parte dessa transformação. Queremos que saiba: agradecemos sua visita e interesse. É a soma de interesses e esforços individuais, começando pela busca do conhecimento, que pode moldar uma realidade mais inclusiva e solidária. Obrigado por fazer parte disso!"
-
-[def]: ../images/accessibility-icon.jpg
