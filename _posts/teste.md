@@ -3,7 +3,7 @@ date: 2023-07-15
 title: Teste de post 01
 categories:
   - Trabalho
-author_staff_member: Rafael
+author_staff_member: rferraz
 ---
 "Sobre a PCD.dataverso, somos mais do que apenas um site. Somos uma plataforma de dados dedicada à população brasileira com deficiência. Em um mundo onde as informações são abundantes, e muitas vezes complexas ou difíceis de entender, a PCD.dataverso assume o compromisso de simplificar essa realidade. Nossa missão é disponibilizar informações precisas, confiáveis e de fácil digestão, trazendo clareza e contribuindo para a compreensão mais profunda e efetiva em relação às questões dessa comunidade.
 
