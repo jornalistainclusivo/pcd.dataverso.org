@@ -9,7 +9,7 @@ author_staff_member: rferraz
 
 A PCD.dataverso foi criada guiada pela intenção de preencher uma lacuna: a de fontes consistentes e acessíveis de dados sobre a população com deficiência no Brasil. Cientes da insuficiência de plataformas compreensíveis para divulgação dessa informação, lançamos um compromisso ousado de reunir e disponibilizar dados confiáveis, visando transformá-los em narrativas compreensíveis e capazes de desencadear conversas significativas e mudanças sistêmicas. Portanto, nós nos dedicamos com propósito para garantir a precisão, integridade e relevância de cada dado compartilhado em nossa plataforma, sempre nos esforçando para simplificar complexidades e amplificar acessibilidade.
 
-![Símbolo internacional de acessibilidade](images/acessibility-icon.jpg)
+![Símbolo internacional de acessibilidade](images/accessibility-icon.jpg)
 
 Na essência da PCD.dataverso estão nossos valores fundamentais: transparência, confiabilidade e inclusão. Acreditamos que a transparência é primordial no trato dos dados; nós nos esforçamos para literalmente 'descomplicar' as estatísticas, permitindo que sejam claramente compreendidas por todos. Equacionamos confiabilidade com responsabilidade: cada dado é minuciosamente verificado e validado por nossa equipe de especialistas para garantir a acuracidade do que é partilhado. E inclusão, posicionamo-nos firmemente como avalistas, utilizando nosso alcance e conhecimento para apresentar informações que ajudem a promover e defender os direitos da população com deficiência. Uma vez que incontáveis pessoas dependem dessas informações para sua representatividade, clareza e ação, isso está no cerne do que a PCD.dataverso busca contribuir.
 
