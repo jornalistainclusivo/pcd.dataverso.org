@@ -70,7 +70,7 @@ faq:
 <div class="plans">
 	{% for plan in page.pricing_table %}
 		<ul class="plan">
-			<li style="background: {{ plan.color }}">
+		<li style="background: {{ plan.color }}">
 				<h3>{{ plan.name }}</h3>
 			</li>
 			{% for feature in plan.features %}
