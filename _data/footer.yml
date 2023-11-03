@@ -21,6 +21,10 @@
     link: /
     new_window: true
 - links:
+  - name: GitHub
+    link: https://github.com/jornalistainclusivo/pcd.dataverso.org
+    social_icon: GitHub
+    new_window: true
   - name: Facebook
     link: https://facebook.com/jornalistainclusivo/
     new_window: true
