@@ -86,10 +86,10 @@ exclude:
 
 _select_data:
   social_icons:
+    - GitHub
     - Facebook
     - Instagram
     - LinkedIn
-    - Pinterest
     - Tumblr
     - Twitter
     - YouTube
