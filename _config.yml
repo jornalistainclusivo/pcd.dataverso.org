@@ -20,6 +20,10 @@ social:
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
+# Site language
+locale:
+  default_locale: pt_BR
+
 # -----
 # Build
 
