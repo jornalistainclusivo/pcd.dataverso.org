@@ -1,24 +1,17 @@
-- name: O que
-  link: /descricao/
-  new_window: false
-  highlight: false
 - name: Blog
   link: https://jornalistainclusivo.com
-  new_window: false
-  highlight: false
-- name: Sobre
-  link: /sobre/
-  new_window: false
+  new_window: true
   highlight: false
 - name: Contato
   link: /contact/
   new_window: false
   highlight: false
-- name: Newsletter
-  link: /
+- name: Colabore
+  link: https://jornalistainclusivo.com/colabore
   new_window: true
   highlight: false
-- name: Colabore
-  link: /
+- name: Newsletter
+  link: https://subs.jornalistainclusivo.com/
   new_window: true
   highlight: true
+
