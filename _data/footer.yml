@@ -12,6 +12,9 @@
   - name: Repositório
     link: https://dados.dataverso.org/pcd/
     new_window: true
+  - name: Home
+    link: /
+    new_window: false
 - links:
   - name: GitHub
     link: https://github.com/jornalistainclusivo/pcd.dataverso.org
