@@ -6,17 +6,11 @@
   - name: Contato
     link: /contact/
 - links:
-  - name: Login
-    link: /
+  - name: Dados Dataverso
+    link: https://dados.dataverso.org/
     new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
+  - name: Repositório
+    link: https://dados.dataverso.org/pcd/
     new_window: true
 - links:
   - name: GitHub
