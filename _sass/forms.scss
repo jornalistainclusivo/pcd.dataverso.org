@@ -57,6 +57,7 @@ input, textarea {
 	-moz-transition: all 0.30s ease-in-out;
 	-ms-transition: all 0.30s ease-in-out;
 	-o-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out; /* added standard transition property */
 	outline: none;
 	border: 1px solid #DDDDDD;
 }
