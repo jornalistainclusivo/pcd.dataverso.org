@@ -35,16 +35,16 @@
 				fill: #fff;
 			}
 
+			&.github-icon:hover svg {
+				fill: #333;
+			}
+
 			&.twitter-icon:hover svg {
 				fill: #55acee;
 			}
 
 			&.instagram-icon:hover svg {
 				fill: #f167f5;
-			}
-
-			&.linkedin-icon:hover svg {
-				fill: #0077b5;
 			}
 
 			&.rss-icon:hover svg {
