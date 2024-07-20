@@ -20,4 +20,3 @@ Brasil • América Latina
 ## Develop
 
 PcD Dataverso was built with [Jekyll](http://jekyllrb.com/) and [Hydra theme](https://github.com/CloudCannon/hydra-jekyll-template).
-
