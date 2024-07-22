@@ -6,7 +6,7 @@ Bem-vindes!
 
 Brasil • América Latina
 
-![PCD Dataverso](images/logo-pcd-dataverso-800x164.png)
+![Dataverso PcD](images/logo-pcd-dataverso-800x164.png)
 
 [Visite o website](https://pcd.dataverso.org)
 
@@ -19,4 +19,4 @@ Brasil • América Latina
 
 ## Develop
 
-PcD Dataverso was built with [Jekyll](http://jekyllrb.com/) and [Hydra theme](https://github.com/CloudCannon/hydra-jekyll-template).
+Dataverso PcD was built with [Jekyll](http://jekyllrb.com/) and [Hydra theme](https://github.com/CloudCannon/hydra-jekyll-template).
