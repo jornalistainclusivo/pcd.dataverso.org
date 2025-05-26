@@ -1,29 +1,12 @@
 <nav class="nav-bar">
-  <!-- Botão de menu para dispositivos móveis -->
-  <a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+  <a class="nav-toggle" href="#">☰</a>
+  <a class="editor-link" href="cloudcannon:collections/_data/navigation.yml">✎ Edit navigation</a>
 
-  <!-- Link para edição do menu no CloudCannon -->
-  <a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml">
-    <strong>&#9998;</strong> Edit navigation
-  </a>
-
-  <!-- Lista de links de navegação -->
-  <ul>
-    {% for link in site.data.navigation %}
-      {% assign class = "" %}
-      {% if link.highlight %}
-        {% assign class = class | append: " highlight" %}
-      {% endif %}
-      {% if link.link == page.url %}
-        {% assign class = class | append: " active" %}
-      {% endif %}
-      <li>
-        <a href="{% include relative-src.html src=link.link %}"
-           class="{{ class | strip }}"
-           {% if link.new_window %}target="_blank"{% endif %}>
-          {{ link.name }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+  {% for link in site.data.navigation %}
+    <a href="{% include relative-src.html src=link.link %}"
+       class="{% if link.highlight %}highlight{% endif %} {% if link.link == page.url %}active{% endif %}"
+       {% if link.new_window %}target="_blank"{% endif %}>
+      {{ link.name }}
+    </a>
+  {% endfor %}
 </nav>
