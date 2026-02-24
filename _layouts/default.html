@@ -48,10 +48,13 @@
 			</div>
 		</footer>
 		<script>
-			document.getElementById("open-nav").onclick = function () {
-				document.body.classList.toggle("nav-open");
-				return false;
-			};
+			const navToggle = document.querySelector(".nav-toggle");
+			if (navToggle) {
+				navToggle.addEventListener("click", function(e) {
+					e.preventDefault();
+					document.body.classList.toggle("nav-open");
+				});
+			}
 		</script>
 	</body>
 </html>
