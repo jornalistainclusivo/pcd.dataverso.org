@@ -1,0 +1,78 @@
+C:/Ruby34-x64/lib/ruby/3.4.0/win32/registry.rb:2: warning: fiddle/import is found in fiddle, which will no longer be part of the default gems starting from Ruby 4.0.0.
+You can add fiddle to your Gemfile or gemspec to silence this warning.
+bundler: failed to load command: htmlproofer (C:/Ruby34-x64/bin/htmlproofer)
+C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ffi-1.17.3-x64-mingw-ucrt/lib/ffi/dynamic_library.rb:94:in 'FFI::DynamicLibrary.load_library': Could not open library 'libcurl': Failed with error 126: Não foi possível encontrar o módulo especificado.
+ (LoadError)
+.
+Could not open library 'libcurl.dll': Failed with error 126: Não foi possível encontrar o módulo especificado.
+
+.
+Could not open library 'libcurl.so.4': Failed with error 126: Não foi possível encontrar o módulo especificado.
+
+.
+Could not open library 'libcurl.so.4.dll': Failed with error 126: Não foi possível encontrar o módulo especificado.
+
+.
+Searched in <system library path>
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ffi-1.17.3-x64-mingw-ucrt/lib/ffi/library.rb:95:in 'block in FFI::Library#ffi_lib'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ffi-1.17.3-x64-mingw-ucrt/lib/ffi/library.rb:94:in 'Array#map'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ffi-1.17.3-x64-mingw-ucrt/lib/ffi/library.rb:94:in 'FFI::Library#ffi_lib'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ethon-0.15.0/lib/ethon/curls/settings.rb:10:in '<module:Curl>'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ethon-0.15.0/lib/ethon/curls/settings.rb:3:in '<module:Ethon>'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ethon-0.15.0/lib/ethon/curls/settings.rb:2:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/core_ext/kernel.rb:34:in 'Kernel#require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ethon-0.15.0/lib/ethon/curl.rb:28:in '<module:Curl>'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ethon-0.15.0/lib/ethon/curl.rb:14:in '<module:Ethon>'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ethon-0.15.0/lib/ethon/curl.rb:9:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/core_ext/kernel.rb:34:in 'Kernel#require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/ethon-0.15.0/lib/ethon.rb:16:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/core_ext/kernel.rb:34:in 'Kernel#require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/typhoeus-1.5.0/lib/typhoeus.rb:2:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/core_ext/kernel.rb:34:in 'Kernel#require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/html-proofer-5.2.0/lib/html_proofer/url_validator/external.rb:3:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/core_ext/kernel.rb:26:in 'Kernel#require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/cref.rb:62:in 'Module#const_get'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/cref.rb:62:in 'Zeitwerk::Cref#get'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/eager_load.rb:171:in 'block in Zeitwerk::Loader::EagerLoad#actual_eager_load_dir'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/file_system.rb:32:in 'block in Zeitwerk::Loader::FileSystem#ls'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/file_system.rb:26:in 'Array#each'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/file_system.rb:26:in 'Zeitwerk::Loader::FileSystem#ls'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/eager_load.rb:166:in 'Zeitwerk::Loader::EagerLoad#actual_eager_load_dir'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/eager_load.rb:17:in 'block (2 levels) in Zeitwerk::Loader::EagerLoad#eager_load'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/eager_load.rb:16:in 'Hash#each'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/eager_load.rb:16:in 'block in Zeitwerk::Loader::EagerLoad#eager_load'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/eager_load.rb:10:in 'Thread::Mutex#synchronize'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/zeitwerk-2.7.5/lib/zeitwerk/loader/eager_load.rb:10:in 'Zeitwerk::Loader::EagerLoad#eager_load'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/html-proofer-5.2.0/lib/html_proofer.rb:62:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/html-proofer-5.2.0/lib/html-proofer.rb:3:in 'Kernel#require_relative'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/html-proofer-5.2.0/lib/html-proofer.rb:3:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'Kernel.require'
+	from C:/Ruby34-x64/lib/ruby/3.4.0/bundled_gems.rb:82:in 'block (2 levels) in Kernel#replace_require'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/html-proofer-5.2.0/exe/htmlproofer:8:in '<top (required)>'
+	from C:/Ruby34-x64/bin/htmlproofer:25:in 'Kernel#load'
+	from C:/Ruby34-x64/bin/htmlproofer:25:in '<top (required)>'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/cli/exec.rb:61:in 'Kernel.load'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/cli/exec.rb:61:in 'Bundler::CLI::Exec#kernel_load'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/cli/exec.rb:24:in 'Bundler::CLI::Exec#run'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/cli.rb:500:in 'Bundler::CLI#exec'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/exe/bundle:28:in 'block in <top (required)>'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/lib/bundler/friendly_errors.rb:118:in 'Bundler.with_friendly_errors'
+	from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/bundler-4.0.6/exe/bundle:20:in '<top (required)>'
+	from C:/Ruby34-x64/bin/bundle:36:in 'Kernel#load'
+	from C:/Ruby34-x64/bin/bundle:36:in '<main>'
