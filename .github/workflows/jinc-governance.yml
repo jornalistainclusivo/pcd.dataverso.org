@@ -1,0 +1,37 @@
+name: JINC Governance Quality Gate
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  vibe-check:
+    name: DevOps Quality Gate (The Vibe Check)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Security Audit (bundler-audit)
+        run: |
+          gem install bundler-audit
+          bundle audit check --update
+
+      - name: Build Jekyll Site
+        run: bundle exec jekyll build
+
+      - name: Validate HTML & Links (html-proofer)
+        run: bundle exec htmlproofer ./_site --disable-external

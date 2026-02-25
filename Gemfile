@@ -16,3 +16,7 @@ gem 'wdm', '>= 0.1.1' if Gem.win_platform?
 
 # Correção para fusos horários no Windows
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+group :test, :development do
+  gem 'html-proofer', '~> 5.0'
+end
